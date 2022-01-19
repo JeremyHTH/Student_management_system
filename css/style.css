@@ -1,0 +1,33 @@
+#login_block
+{
+    width: 500px;
+    height:100px;
+    background-color: aquamarine;
+}
+
+nav
+{
+    height: 80px;
+    background-color: black ;
+    color: aliceblue;
+}
+
+nav ul
+{
+    /* float:right; */
+    float:right;
+    margin-right: 40px;
+    list-style: none;
+    position: relative;
+}
+nav ul li
+{
+    display: inline-block;
+    background: black;
+    margin: 0 5px;
+}
+
+nav img
+{
+    height: 80px;
+}
